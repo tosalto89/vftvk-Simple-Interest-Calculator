@@ -1,0 +1,47 @@
+body{
+  background-color:black;
+  font-family:arial;
+}
+
+.main{
+  width: 90%;
+  height: 450px;
+  border-radius: 25px;
+  background-color: white;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  align-content: center;
+
+}
+form{
+  margin-left: 50px;
+}
+input{
+  margin-left: 50px;
+}
+h1{
+  margin-top: 50px;
+  margin-left: 20px;
+  color:grey;
+  font-family:verdana;
+}
+p{
+  margin-left: 45px;
+  margin-bottom: -10px;
+}
+#amount{
+  margin-left: 100px;
+}
+#interest{
+  margin-left: 55px;
+}
+#years{
+  margin-left: 70px;
+}
+#btn{
+  margin-left: -5px;
+}
+footer{
+  margin-top: 50px;
+  margin-left: 0px;
+}
